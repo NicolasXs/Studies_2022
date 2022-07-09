@@ -1,4 +1,4 @@
-# Ignite Lab - especialização ReactJS
+# Ignite Lab - especialização ReactJS 
 ### Projeto criado durante o envento da Rocketseat: uma plataforma de conteúdos em vídeo.
 A estrutura base da aplicação foi feita utilizando ReactJS, Vite, TailwindCSS e GraphCMS criando as entidades da aplicação e integrando a API GraphQL 
 gerada pela plataforma no nosso front-end utilizando Apollo Client.
