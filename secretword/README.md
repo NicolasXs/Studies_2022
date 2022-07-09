@@ -1,4 +1,4 @@
-# Projeto Scret Word
+# Projeto Scret Word 
 ### Curso - React do Zero a Maestria (c/ hooks, router, API, Projetos) 
 ![image](https://user-images.githubusercontent.com/83989537/178084067-e55eb2dd-1051-4351-ad3b-2b674e0668fd.png)
 ##
