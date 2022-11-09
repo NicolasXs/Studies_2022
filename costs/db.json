@@ -43,6 +43,28 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "batata",
+      "budget": "12",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Kadmom",
+      "budget": "12",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
