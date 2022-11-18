@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "../styles/about.module.css";
+import styles from "../styles/About.module.css";
 import charizard from "../public/images/charizard.png";
 
 export default function About() {
